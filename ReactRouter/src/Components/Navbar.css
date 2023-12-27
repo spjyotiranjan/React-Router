@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    height: 5vw;
+    width: 95vw;
+    margin: 1vw auto;
+    padding: 0 1vw;
+    align-items: center;
+    border-radius: 1vw;
+    background-color: rgba(255, 255, 255, 0.525);
+}
+.right{
+    display: flex;
+    width: 15%;
+    font-size: 0.7rem;
+    justify-content: space-between;
+}
